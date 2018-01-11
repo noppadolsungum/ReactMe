@@ -25,6 +25,7 @@ export default class App extends Component<{}> {
       <View style={styles.container}>
         <Text style={styles.welcome}>
           My Name is Tom
+          Tom Kung 
         </Text>
       </View>
     );
