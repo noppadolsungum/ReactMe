@@ -24,7 +24,7 @@ export default class App extends Component<{}> {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          ReactMe Project Test 555
+          ReactMe Project for test
         </Text>
       </View>
     );
